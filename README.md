@@ -479,6 +479,8 @@ GET /rides/get-fare?pickup=1600+Amphitheatre+Parkway,+Mountain+View,+CA&destinat
   "message": "Error message"
 }
 ```
-#   R A H I - b a c k e n d  
- #   R A H I - b a c k e n d  
+#   R A H I - b a c k e n d 
+ 
+ #   R A H I - b a c k e n d 
+ 
  
